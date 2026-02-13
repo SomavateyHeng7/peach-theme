@@ -2,7 +2,7 @@
 
 Soma is a beautifully crafted VS Code theme designed for developers who want a workspace that feels calm, modern, and inspiring. Blending warm creams, soft blush tones, and elegant lavenders, it delivers a distinctive pastel aesthetic without sacrificing clarity or readability.
 
-## Features
+## 🎨 Features
 
 - **Two Variants**: Available in both Dark and Light modes
 - **Language Optimized**: Carefully tuned for Python, TypeScript, JavaScript, and Laravel
@@ -10,7 +10,43 @@ Soma is a beautifully crafted VS Code theme designed for developers who want a w
 - **Developer-Friendly**: Clean syntax contrast and low-fatigue coding experience
 - **Modern & Calm**: A refreshing alternative to typical dark blues and neon palettes
 
-## Color Palette
+## 📦 Installation
+
+### From GitHub (Pre-Release)
+
+Since Soma is not yet on the VS Code Marketplace, you can install it directly:
+
+#### Quick Install (Recommended)
+1. Download or clone this repository
+2. Open terminal in the theme folder
+3. Run:
+   ```bash
+   npm install -g @vscode/vsce
+   vsce package
+   code --install-extension soma-theme-1.0.0.vsix
+   ```
+4. Reload VS Code
+5. Press `Ctrl+K Ctrl+T` (or `Cmd+K Cmd+T` on Mac)
+6. Select "Soma Dark" or "Soma Light"
+
+#### Manual Install
+1. Download or clone this repository
+2. Copy the folder to your VS Code extensions directory:
+   - **Windows**: `%USERPROFILE%\.vscode\extensions\soma-theme-1.0.0`
+   - **macOS/Linux**: `~/.vscode/extensions/soma-theme-1.0.0`
+3. Reload VS Code (`Ctrl+Shift+P` → "Developer: Reload Window")
+4. Activate: `Ctrl+K Ctrl+T` → Select "Soma Dark" or "Soma Light"
+
+**📖 Detailed installation guide**: See [INSTALL_FROM_GITHUB.md](INSTALL_FROM_GITHUB.md)
+
+### From Marketplace (Coming Soon)
+Once published, you'll be able to install via:
+1. Open VS Code
+2. Go to Extensions (`Ctrl+Shift+X` / `Cmd+Shift+X`)
+3. Search for "Soma"
+4. Click Install
+
+## 🌈 Color Palette
 
 ### Dark Theme
 - Background: Deep purple-blacks (#1a1625)
@@ -32,16 +68,7 @@ Soma is a beautifully crafted VS Code theme designed for developers who want a w
 - Numbers: Warm terracotta (#c9855a)
 - Tags: Rose pink (#c9708a)
 
-## Installation
-
-1. Open VS Code
-2. Go to Extensions (Ctrl+Shift+X / Cmd+Shift+X)
-3. Search for "Soma"
-4. Click Install
-5. Go to Preferences > Color Theme
-6. Select "Soma Dark" or "Soma Light"
-
-## Language Support
+## 💻 Language Support
 
 Soma is optimized for:
 - **Python**: Beautiful decorator highlighting, clear self/cls distinction
@@ -60,15 +87,15 @@ Soma is optimized for:
 - **JSON**: Multi-level key coloring for easy navigation
 - **Markdown**: Beautiful heading and emphasis styling
 
-## Screenshots
+## 📸 Screenshots
 
 *Coming soon*
 
-## Feedback
+## 🤝 Contributing
 
-If you have suggestions or find issues, please open an issue on our GitHub repository.
+Found a bug or have a suggestion? Please open an issue on GitHub!
 
-## License
+## 📄 License
 
 MIT
 

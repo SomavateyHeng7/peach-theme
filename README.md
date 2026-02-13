@@ -1,6 +1,6 @@
-# Soma Theme
+# Peach Theme
 
-Soma is a beautifully crafted VS Code theme designed for developers who want a workspace that feels calm, modern, and inspiring. Blending warm creams, soft blush tones, and elegant lavenders, it delivers a distinctive pastel aesthetic without sacrificing clarity or readability.
+Peach is a beautifully crafted VS Code theme designed for developers who want a workspace that feels calm, modern, and inspiring. Blending warm creams, soft blush tones, and elegant lavenders, it delivers a distinctive pastel aesthetic without sacrificing clarity or readability.
 
 ## 🎨 Features
 
@@ -14,23 +14,29 @@ Soma is a beautifully crafted VS Code theme designed for developers who want a w
 
 ### From GitHub (Pre-Release)
 
-Since Soma is not yet on the VS Code Marketplace, you can install it directly:
+Since Peach is not yet on the VS Code Marketplace, you can install it directly:
 
 #### Quick Install (Recommended)
-1. Download or clone this repository
-2. Open terminal in the theme folder
-3. Run:
+1. Download or clone this repository:
+   ```bash
+   git clone https://github.com/SomavateyHeng7/peach-theme.git
+   cd peach-theme
+   ```
+2. Package and install:
    ```bash
    npm install -g @vscode/vsce
    vsce package
    code --install-extension soma-theme-1.0.0.vsix
    ```
-4. Reload VS Code
-5. Press `Ctrl+K Ctrl+T` (or `Cmd+K Cmd+T` on Mac)
-6. Select "Soma Dark" or "Soma Light"
+3. Reload VS Code
+4. Press `Ctrl+K Ctrl+T` (or `Cmd+K Cmd+T` on Mac)
+5. Select "Soma Dark" or "Soma Light"
 
 #### Manual Install
-1. Download or clone this repository
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/SomavateyHeng7/peach-theme.git
+   ```
 2. Copy the folder to your VS Code extensions directory:
    - **Windows**: `%USERPROFILE%\.vscode\extensions\soma-theme-1.0.0`
    - **macOS/Linux**: `~/.vscode/extensions/soma-theme-1.0.0`

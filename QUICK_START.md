@@ -4,7 +4,7 @@
 
 ### 1️⃣ Get the Theme
 ```bash
-git https://github.com/SomavateyHeng7/peach-theme.git
+git clone https://github.com/SomavateyHeng7/peach-theme.git
 cd peach-theme
 ```
 

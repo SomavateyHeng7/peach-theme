@@ -4,8 +4,8 @@
 
 ### 1️⃣ Get the Theme
 ```bash
-git clone https://github.com/yourusername/soma-theme.git
-cd soma-theme
+git https://github.com/SomavateyHeng7/peach-theme.git
+cd peach-theme
 ```
 
 ### 2️⃣ Package & Install

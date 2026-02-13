@@ -16,7 +16,7 @@ Your theme is ready! Here's what's been set up:
 Open `package.json` and replace:
 - `"publisher": "your-publisher-name"` → Your VS Code Marketplace publisher name
 - `"name": "Your Name"` → Your actual name
-- `"url": "https://github.com/yourusername/soma-theme"` → Your GitHub repo URL
+- `"url": "https://github.com/SomavateyHeng7/peach-theme.git"` → Your GitHub repo URL
 
 ### 2. Create an Icon (Optional but Recommended)
 Create a 128x128px PNG icon named `icon.png` in the root directory. This will be your theme's logo on the marketplace.

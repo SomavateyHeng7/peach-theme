@@ -2,7 +2,7 @@
   "name": "peach-theme",
   "displayName": "peach Theme",
   "description": "peach is a beautifully crafted VS Code theme designed for developers who want a workspace that feels calm, modern, and inspiring. Blending warm creams, soft blush tones, and elegant lavenders, it delivers a distinctive pastel aesthetic without sacrificing clarity or readability. Optimized for Python, TypeScript, JavaScript, PHP, C/C++, C#, Go, R, Dart, Flutter, Swift, Java, Ruby, SQL, HTML, and CSS.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "publisher": "soma",
   "author": {
     "name": "Somavatey Heng"
@@ -56,6 +56,11 @@
         "label": "Soma Light",
         "uiTheme": "vs",
         "path": "./themes/soma-light.json"
+      },
+      {
+        "label": "Soma Night (High Contrast)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/soma-night.json"
       }
     ]
   }

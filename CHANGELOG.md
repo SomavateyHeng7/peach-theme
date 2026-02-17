@@ -2,6 +2,33 @@
 
 All notable changes to the "Soma Theme" extension will be documented in this file.
 
+## [1.1.0] - 2025-02-14
+
+### Added
+- New "Soma Night (High Contrast)" theme variant for late-night coding
+  - True black background (#0b0a0f) for maximum contrast
+  - Brighter colors for enhanced visibility
+  - Reduced eye strain during long coding sessions
+  - Perfect for developers who code at night
+
+### Improved
+- Enhanced contrast in Dark theme
+  - Darker background (#0d0a12) for better depth
+  - Brighter foreground (#f0e8e0) for improved readability
+  - Variables now more visible (#f5e5d5)
+  - Functions stand out more (#d9c5e9)
+  
+- Enhanced contrast in Light theme
+  - Variables now highly visible (#2a1f32)
+  - Functions more distinct (#6a4f7a)
+  - Better overall text contrast
+  - Improved readability for long coding sessions
+
+### Fixed
+- Variable names now clearly visible in both dark and light modes
+- Function names have better contrast and stand out more
+- Improved syntax highlighting consistency across all themes
+
 ## [1.0.0] - 2025-02-13
 
 ### Added

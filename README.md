@@ -4,11 +4,13 @@ Peach is a beautifully crafted VS Code theme designed for developers who want a 
 
 ## 🎨 Features
 
-- **Two Variants**: Available in both Dark and Light modes
+- **Three Variants**: Dark, Light, and Night (High Contrast) modes
+- **Night Mode**: Perfect for late-night coding with high contrast and reduced eye strain
 - **Language Optimized**: Carefully tuned for Python, TypeScript, JavaScript, and Laravel
 - **Pastel Aesthetic**: Warm creams, soft blush tones, and elegant lavenders
 - **Developer-Friendly**: Clean syntax contrast and low-fatigue coding experience
 - **Modern & Calm**: A refreshing alternative to typical dark blues and neon palettes
+- **Enhanced Visibility**: Improved contrast for variables and functions in all modes
 
 ## 📦 Installation
 
@@ -54,25 +56,39 @@ Once published, you'll be able to install via:
 
 ## 🌈 Color Palette
 
-### Dark Theme
-- Background: Deep purple-blacks (#1a1625)
-- Foreground: Warm cream (#e8d5d0)
-- Accent: Soft lavender (#b8a5c9)
-- Strings: Gentle green (#c9d4a8)
-- Functions: Elegant purple (#b8a5c9)
+### Dark Theme (Improved Contrast)
+- Background: Deep purple-black (#0d0a12)
+- Foreground: Bright warm cream (#f0e8e0)
+- Variables: Enhanced visibility (#f5e5d5)
+- Functions: Bright lavender (#d9c5e9)
+- Accent: Soft lavender (#c9b5d9)
+- Strings: Gentle green (#d9e4b8)
 - Keywords: Muted lavender (#c9b5d9)
 - Numbers: Peachy cream (#f4c5a6)
-- Tags: Blush pink (#f4a6b8)
+- Tags: Blush pink (#ff6b9d)
 
-### Light Theme
-- Background: Warm cream (#fffef8)
-- Foreground: Deep purple-gray (#4a3f52)
-- Accent: Rich lavender (#8a6f9a)
+### Light Theme (Improved Contrast)
+- Background: Warm cream (#fefdfb)
+- Foreground: Deep purple-gray (#3a2f42)
+- Variables: High contrast dark (#2a1f32)
+- Functions: Rich purple (#6a4f7a)
+- Accent: Rich lavender (#7a5f8a)
 - Strings: Earthy green (#7a8a5a)
-- Functions: Deep purple (#7a5f8a)
 - Keywords: Muted purple (#7a5f8a)
 - Numbers: Warm terracotta (#c9855a)
-- Tags: Rose pink (#c9708a)
+- Tags: Rose pink (#b9608a)
+
+### Night Theme (High Contrast)
+- Background: True black (#0b0a0f)
+- Foreground: Bright cream (#f5f0e8)
+- Variables: Maximum visibility (#fff8f0)
+- Functions: Bright lavender (#e9d5f9)
+- Accent: Vibrant lavender (#d9c5e9)
+- Strings: Bright green (#e9f4c8)
+- Keywords: Bright purple (#e9c5f9)
+- Numbers: Bright peach (#ffd5b6)
+- Tags: Bright pink (#ff7aa3)
+- Perfect for: Late-night coding, reduced eye strain, maximum readability
 
 ## 💻 Language Support
 

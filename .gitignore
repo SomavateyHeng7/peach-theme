@@ -2,3 +2,4 @@ node_modules
 *.vsix
 .env
 PUBLISHING.md
+SETUP_COMPLETE.md
